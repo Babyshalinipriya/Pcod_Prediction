@@ -1,6 +1,8 @@
 # Pcod_Prediction
 step 1:Clone the repo in an Folder
+
 step 2:creat an environment using python -m venv (environment name)
+
 step 3:pip install -r requirements.txt
 step 4:streamlit run app.py
 
