@@ -1,6 +1,6 @@
 # Pcod_Prediction
 
-**Step 1**:Clone the repo in an Folder
+##**Step 1**:Clone the repo in an Folder
 
 **Step 2**:creat an environment using python -m venv (environment name)
 
