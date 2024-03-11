@@ -2,7 +2,7 @@
 
 ## **Step 1**:Clone the repo in an Folder
 
-## **Step 2**:Creat an environment using _python -m venv (environment name)_
+## **Step 2**:Create an environment using _python -m venv (environment name)_
 
 ## **Step 3**:pip install -r requirements.txt
 
