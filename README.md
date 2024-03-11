@@ -5,3 +5,4 @@ step 3:pip install -r requirements.txt
 step 4:streamlit run app.py
 
 Attached colab file as pcod_project.ipynb cjeck it out for futher details
+streamlit url:https://pcodpredictions.streamlit.app
