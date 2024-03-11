@@ -8,6 +8,6 @@
 
 ## **Step 4**:streamlit run app.py
 
-*** Attached colab file as pcod_project.ipynb cjeck it out for futher details ***
+### *** Attached colab file as _pcod_project.ipynb_ check it out for futher details ***
 
-streamlit url:https://pcodpredictions.streamlit.app
+streamlit url : *** _https://pcodpredictions.streamlit.app_ ***
