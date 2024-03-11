@@ -2,7 +2,7 @@
 
 ## **Step 1**:Clone the repo in an Folder
 
-## **Step 2**:creat an environment using python -m venv (environment name)
+## **Step 2**:Creat an environment using _python -m venv (environment name)_
 
 ## **Step 3**:pip install -r requirements.txt
 
@@ -10,4 +10,4 @@
 
 ### *** Attached colab file as _pcod_project.ipynb_ check it out for futher details ***
 
-streamlit url : *** _https://pcodpredictions.streamlit.app_ ***
+streamlit url :  _https://pcodpredictions.streamlit.app_ 
